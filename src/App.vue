@@ -118,7 +118,7 @@ button {
   transition: background-color 0.3s;
 }
 button:hover {
-  background-color: #0056b3; /* Color when hovered */
+  background-color: #0056b3;
 }
 ul {
   list-style-type: none;
